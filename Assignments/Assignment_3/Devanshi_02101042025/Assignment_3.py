@@ -128,14 +128,3 @@ s1 = Student("Rahul", 92)
 s2 = Student("Priya", 88)
 s1.display()
 s2.display()
-
-
-
-
-
-
-
-
-
-
-
